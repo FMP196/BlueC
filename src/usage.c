@@ -1,6 +1,6 @@
 /**
  * usage.c
- *
+ **
  * This software is part of BlueC.
  * Copyright (C) 2011 Fabian Priftaj <fmp@linuxmail.org>
  *
